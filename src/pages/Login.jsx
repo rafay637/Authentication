@@ -116,6 +116,11 @@ const submit_handle = async (e) => {
             Signup now
           </Link>
         </div>
+        <div className="col-span-2 space-x-1 text-center">
+          If you don't want to signup for login enter given credentials
+          <div className="my-4">Email: ye@mail.com</div>
+          <div>Password: 123456</div>
+        </div>
       </form>
     </div>
   );
