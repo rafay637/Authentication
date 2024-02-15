@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.hmariapp{
+    min-height: 100dvh;
+
+    justify-content: center;
+    align-items: center;
+}
+
+.kchkro{
+    width: 50%;
+}
+
+h1{
+    font-size: 2rem;
+}
